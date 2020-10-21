@@ -1,2 +1,2 @@
-# bounceOff-c-21
-making 2 objects bounceoff
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
